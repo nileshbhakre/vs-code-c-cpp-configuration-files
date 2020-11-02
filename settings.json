@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "array in c/*.exe": true,
+        "array in c/excedding_boundry_of_array.exe": true,
+        "**/*.exe": true,
+        "singled_linked_list/*.exe": true
+    },
+    "explorerExclude.backup": null,
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
